@@ -1,0 +1,3 @@
+complete Git lesson
+Review HTML Basics
+Start JavaScript exercises
